@@ -67,33 +67,7 @@ public class BinTreeTests {
         assertEquals(22, treeD.last());
         assertFalse(treeD.contains(15));
         assertFalse(treeD.contains(19));
-
-    /*    treeE.add(98);
-        treeE.add(74);
-        treeE.add(62);
-        treeE.add(90);
-        treeE.add(20);
-        treeE.add(1);
-        treeE.add(12);
-        treeE.add(46);
-        treeE.add(77);
-        treeE.add(62);
-        treeE.add(33);
-        treeE.add(27);
-        treeE.add(40);
-        treeE.add(32);
-        treeE.add(42);
-        treeE.add(72);
-        treeE.add(84);
-        treeE.add(26);
-        treeE.add(15);
-        treeE.add(45);
-        treeE.remove(98);
-        assertEquals(1, treeE.first());
-        assertEquals(90, treeE.last());
-        assertEquals(19, treeE.size());
-        assertFalse(treeE.contains(98));
-    */}
+    }
 }
 
 
